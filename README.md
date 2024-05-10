@@ -1,0 +1,2 @@
+# MNIST-BeginnerAI
+hello world
